@@ -1,1 +1,0 @@
-# chingu-journal-app
